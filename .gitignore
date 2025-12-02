@@ -1,11 +1,7 @@
 # Ignore Data
-data/
 *.bin
 
 # Ignore Build Files
 *.o
 *.exe
 *.out
-
-# Ignore Saved Models
-models/
